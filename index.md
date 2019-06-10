@@ -11,6 +11,24 @@ I would like to thank the people behing some of the most amazing open source lib
 * [wasabeef picasso transformations](http://github.com/wasabeef/picasso-transformations)
 * [cats oss android GPUImage](http://github.com/cats-oss/android-gpuimage)
 
-**Vote of Thanks**
-First I would like to thank everyone (known and unknown) who supported me in making Japin a reality (directly or indirectly). 
+Japin uses Google Firebase in its backend. The [terms of Firebase](https://firebase.google.com/terms/) contains all related licenses.
+
+### FAQs
+Below are some possible FAQs which I think, will pop up at first. list of FAQs will increase in future.
+
+
+* What inspired the name "Japin" and its logo?\
+The logo of Japin is inspired partially by instagram and the shield of Captain America! Thje name "Japin" is a short for Just Another Picture Network, and yes it is inspired from "Jarvis" - Just A Rather Very Intelligent System!
+
+* What is the business model of Japin or LoneDev?\
+Japin is a ad supported free Android app. Japin uses only banner ads and that too only in the activity that talks too much with the server. This is to make the app as less annoying as possible. LoneDev is an indipendent app creator with no financial backers so keeping ads is the least possible option to make Japin free of cost. It is expected that Japin will earn some more money from showing ads than it will spend in Firebase bills, that more sum is its only revenue for now!
+
+* Who is LoneDev?\
+LoneDev is an independent app creator which is the alias for Aritra Mukherjee (LoneDev sounds a lot more cool!). I am a PhD scholar at Jadavpur University, India working on a thesis on robot vision and SLAM. 
+
+
+### Vote of thanks
+First I would like to thank everyone (known and unknown) who supported me in making Japin a reality (directly or indirectly). ALert: the list may include aparently non living things!
+
+* 
 
