@@ -31,7 +31,7 @@ Most of every artwork, icons, promo video etc. is created by LoneDev. I also use
 
 * Is LoneDev a Marvel Fan?!
 
-Yes! I am a Marvel fan and a die hard fan of Tony Stark AKA Iron Man :) 
+Yes! I am a Marvel fan and a die hard fan of Tony Stark AKA Iron Man :) I am also a Google fan and the entire app theme have some similarities with the old Gmail app!
 
 
 ### Vote of thanks
