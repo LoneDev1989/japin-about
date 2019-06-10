@@ -17,16 +17,20 @@ Japin uses Google Firebase in its backend. The [terms of Firebase](https://fireb
 Below are some possible FAQs which I think, will pop up at first. list of FAQs will increase in future.
 
 
-* What inspired the name "Japin" and its logo?\
+* What inspired the name "Japin" and its logo?
+
 The logo of Japin is inspired partially by instagram and the shield of Captain America! Thje name "Japin" is a short for Just Another Picture Network, and yes it is inspired from "Jarvis" - Just A Rather Very Intelligent System!
 
-* What is the business model of Japin or LoneDev?\
+* What is the business model of Japin or LoneDev?
+
 Japin is a ad supported free Android app. Japin uses only banner ads and that too only in the activity that talks too much with the server. This is to make the app as less annoying as possible. LoneDev is an indipendent app creator with no financial backers so keeping ads is the least possible option to make Japin free of cost. It is expected that Japin will earn some more money from showing ads than it will spend in Firebase bills, that more sum is its only revenue for now!
 
-* Who created the artworks, icons etc?\
+* Who created the artworks, icons etc?
+
 Most of every artwork, icons, promo video etc. is created by LoneDev. I also used some material icons provided by Android Studio specially the ones on the menu drawer. They may not be as professional looking as many matured apps but I do not have the money to pay anyone else right now :)
 
-* Is LoneDev a Marvel Fan?!\
+* Is LoneDev a Marvel Fan?!
+
 Yes! I am a Marvel fan and a die hard fan of Tony Stark AKA Iron Man :) 
 
 
