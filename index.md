@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## About Japin
+In the age of many social media giants, Japin is just a new kid in the block with very limited features and capabilities but having some firsts of its own. Japin is a social network with pictures in each post. People joining Japin can admire people and see their pictures in their feed or wall, rate it from 1 to 5, comment on them and share them. The new thing is the pictures stays in the network based on the number of initial audience of the post and the total stars that post gets. When the post or picture dissapears, it adds a medal to the profile depending on the stars that the post received. Japin has an in-built camera and picture editing tool which lets people play around with multiple filters on top of one another. There are many shortcomings of Japin in its present version. There is a cap on the number of admirers that one can have, sharing and searching is very primitive, there is no provision of reply comments etc. Japin is developed entirely by a single person and so its capabilities are limited to the technical and infrastructural limitations of the developer himself. But I promise to work on the problems with the best of my capabilities to make Japin more interesting and engaging. Japin uses some libraries so there are constraints from them also but with time as those constraints diminishes, Japin will mature too. 
 
-You can use the [editor on GitHub](https://github.com/LoneDev1989/japin-about/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Credits**
+I would like to thank the people behing some of the most amazing open source libraries out there on Github. The libraries used in Japin are as follows:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Picasso](http://square.github.io/picasso/) Copyright 2013 Square, Inc.
 
-### Markdown
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   http://www.apache.org/licenses/LICENSE-2.0
 
-```markdown
-Syntax highlighted code block
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
-# Header 1
-## Header 2
-### Header 3
+**Vote of Thanks**
+First I would like to thank everyone (known and unknown) who supported me in making Japin a reality (directly or indirectly). 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LoneDev1989/japin-about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
