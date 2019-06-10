@@ -28,7 +28,15 @@ LoneDev is an independent app creator which is the alias for Aritra Mukherjee (L
 
 
 ### Vote of thanks
-First I would like to thank everyone (known and unknown) who supported me in making Japin a reality (directly or indirectly). ALert: the list may include aparently non living things!
+I would like to thank everyone (known and unknown) who supported me in making Japin a reality (directly or indirectly). Alert: the list may include aparently non living things!
 
-* 
+* I am thankful to my University, my PhD guide Prof. Sanjoy Kumar Saha and my project guide Prof. Saikat Mookherjee who allowed me to invest so much time in developing this app
+* I am thankful to my Lab-mates who never complained about doing my part while I was coding this app rather supported me in their own ways, the grads and undergrads who work with me also had been very encouraging in this venture. 
+* I am thankful to my mother. I am thankful to my would be in-laws and my fiancée. Sorry but I do not have the required vocabulary to express my feelings in this regard.
+* I am thankful to my friends who tested this app for me.
+* I am thankful to the numerous authors of Stackoverflow, to the the content creators in Youtube specially the channel "Coding in Flow" and many others whose solutions, suggestions and guides made this app possible by a single developer in a months time. Thank you guys from the bottom of my heart :)
+* I am thankful to my laptop, a 2011 model HP 630 notebook running Ubuntu 16.04 equipped with a 4GB DDR3 RAM and 1st gen Corei5 processor. Its Wifi is broken, battery is almost dead, keyboard doesn't work and it needs restart every few hours (developers can imaging how it works after running Android Studio for an hour!). It stood with me like a comrade in war, struck with bullets and sharpnels yet covering me with all its might(sorry if i sound a bit too emotional but I can't help myself)! 
+
+### Why I built Japin?
+I will answer it a little later, may be after 10K active daily users.
 
