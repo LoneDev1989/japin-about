@@ -23,8 +23,11 @@ The logo of Japin is inspired partially by instagram and the shield of Captain A
 * What is the business model of Japin or LoneDev?\
 Japin is a ad supported free Android app. Japin uses only banner ads and that too only in the activity that talks too much with the server. This is to make the app as less annoying as possible. LoneDev is an indipendent app creator with no financial backers so keeping ads is the least possible option to make Japin free of cost. It is expected that Japin will earn some more money from showing ads than it will spend in Firebase bills, that more sum is its only revenue for now!
 
-* Who is LoneDev?\
-LoneDev is an independent app creator which is the alias for Aritra Mukherjee (LoneDev sounds a lot more cool!). I am a PhD scholar at Jadavpur University, India working on a thesis on robot vision and SLAM. 
+* Who created the artworks, icons etc?\
+Most of every artwork, icons, promo video etc. is created by LoneDev. I also used some material icons provided by Android Studio specially the ones on the menu drawer. They may not be as professional looking as many matured apps but I do not have the money to pay anyone else right now :)
+
+* Is LoneDev a Marvel Fan?!\
+Yes! I am a Marvel fan and a die hard fan of Tony Stark AKA Iron Man :) 
 
 
 ### Vote of thanks
@@ -39,4 +42,14 @@ I would like to thank everyone (known and unknown) who supported me in making Ja
 
 ### Why I built Japin?
 I will answer it a little later, may be after 10K active daily users.
+
+### Translations
+Right now Japin is only available in English, I do not have the money to hire professional translators as of now so if any kind person wishes to translate Japin in his/her language feel free to contact me on email given below. Right now I can't pay you anything but just a thanks in this page.
+
+### About LoneDev
+LoneDev is an independent app creator which is the alias for Aritra Mukherjee (LoneDev sounds a lot more cool!). I am a PhD scholar at Jadavpur University, India working on a thesis on robot vision and SLAM.
+
+### Contact
+Please contact me for suggestions, complaints and bug reporting.
+Contact me by email <lonedev1989@gmail.com>. I will try my best to address them.
 
