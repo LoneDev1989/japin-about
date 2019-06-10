@@ -45,10 +45,10 @@ I would like to thank everyone (known and unknown) who supported me in making Ja
 * I am thankful to my laptop, a 2011 model HP 630 notebook running Ubuntu 16.04 equipped with a 4GB DDR3 RAM and 1st gen Corei5 processor. Its Wifi is broken, battery is almost dead, keyboard doesn't work and it needs restart every few hours (developers can imaging how it works after running Android Studio for an hour!). It stood with me like a comrade in war, struck with bullets and sharpnels yet covering me with all its might(sorry if i sound a bit too emotional but I can't help myself)! 
 
 ### Why I built Japin?
-I will answer it a little later, may be after 10K active daily users.
+I will answer it a little later, may be after 10K active daily users :)
 
 ### Translations
-Right now Japin is only available in English, I do not have the money to hire professional translators as of now so if any kind person wishes to translate Japin in his/her language feel free to contact me on email given below. Right now I can't pay you anything but just a thanks in this page.
+Right now Japin is only available in English, I do not have the money to hire professional translators as of now so if any kind person wishes to translate Japin in his/her language feel free to contact me on email given below. Right now I can't pay you anything but just a thanks in this page :)
 
 ### About LoneDev
 LoneDev is an independent app creator which is the alias for Aritra Mukherjee (LoneDev sounds a lot more cool!). I am a PhD scholar at Jadavpur University, India working on a thesis on robot vision and SLAM.
