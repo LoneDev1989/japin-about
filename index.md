@@ -42,7 +42,7 @@ I would like to thank everyone (known and unknown) who supported me in making Ja
 * I am thankful to my mother. I am thankful to my would be in-laws and my fiancée. Sorry but I do not have the required vocabulary to express my feelings in this regard.
 * I am thankful to my friends who tested this app for me.
 * I am thankful to the numerous authors of Stackoverflow, to the content creators in Youtube specially the channel "Coding in Flow" and many others whose solutions, suggestions and guides made this app possible by a single developer in a months time. Thank you guys from the bottom of my heart :)
-* I am thankful to my laptop, a 2011 model HP 630 notebook running Ubuntu 16.04 equipped with a 4GB DDR3 RAM and 1st gen Corei5 processor. Its Wifi is broken, the battery is almost dead, keyboard doesn't work and it needs restart every few hours (developers can imaging how it works after running Android Studio for an hour!). It stood with me like a comrade in war, struck with bullets and shrapnels yet covering me with all its might(sorry if I sound a bit too emotional but I can't help myself)! 
+* I am thankful to my laptop, a 2011 model HP 630 notebook running Ubuntu 16.04 equipped with a 4GB DDR3 RAM and 1st gen Corei5 processor. Its Wifi is broken, the battery is almost dead, keyboard doesn't work and it needs restart every few hours (developers can imagine how it works after running Android Studio for an hour!). It stood with me like a comrade in war, struck with bullets and shrapnels yet covering me with all its might(sorry if I sound a bit too emotional but I can't help myself)! 
 
 ### Why I built Japin?
 I will answer it a little later, maybe after 10K active daily users :)
